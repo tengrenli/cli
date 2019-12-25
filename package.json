@@ -7,8 +7,14 @@
     "macaw": "./bin/macaw.js"
   },
   "dependencies": {
+    "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "download-git-repo": "^3.0.2",
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "handlebars": "^4.5.3",
+    "inquirer": "^7.0.1",
+    "latest-version": "^5.1.0",
+    "metalsmith": "^2.3.0",
+    "ora": "^4.0.3"
   }
 }
