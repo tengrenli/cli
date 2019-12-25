@@ -1,0 +1,14 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "macaw": "./bin/macaw.js"
+  },
+  "dependencies": {
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "glob": "^7.1.6"
+  }
+}
